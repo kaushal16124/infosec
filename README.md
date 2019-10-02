@@ -1,6 +1,6 @@
 # infosec-lab
 A curated list of InfoSec Practicals
 
-caesar
-rotor
-vignere
+caesar cipher, 
+rotor cipher, 
+vignere cipher
